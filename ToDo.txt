@@ -1,4 +1,5 @@
 ToDo:
+- use Gray code for number coding
 - add two children from cross-
 
 Done:
