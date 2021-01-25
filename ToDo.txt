@@ -1,0 +1,7 @@
+ToDo:
+- add two children from cross-
+
+Done:
+
+- NOT! point mutations
+- tournament selection
